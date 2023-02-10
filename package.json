@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react-live",
+  "version": "1.0.0",
+  "description": "React Live classes ",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObaidAlii/Namaste-React-Live-Course.git"
+  },
+  "author": "Obaid Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObaidAlii/Namaste-React-Live-Course/issues"
+  },
+  "homepage": "https://github.com/ObaidAlii/Namaste-React-Live-Course#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "defaults and supports es6-module",
+    "maintained node versions"
+  ]
+}
